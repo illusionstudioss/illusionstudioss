@@ -1,0 +1,5 @@
+- 👋 Hey, Im Ishaan Bahl.
+- 👀 I enjoy developing games and other softwares. doing freelace work and running a development-related youtube channel. 
+- 🌱 I’m good with C# and the Uity game engine, but I do want to become fluent in python and its various libraries, especially pygame. 
+- 💞️ I’m looking to make even more complex games and projects as I get a bit more advanced. Itch Page: https://illusion2006.itch.io/
+- 📫 You can reach me through my website at: https://illusionstudioss.github.io/Website/
